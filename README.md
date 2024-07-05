@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/03e1a1e3-afaa-4f3d-a554-656f1e05533b)">
+  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/282aed32-8132-4a8a-bc8f-4773f36ace04/d707edb4-819a-47d1-9130-d564c31deb9e/Untitled.png">
   국내 암호화폐 시세에 영향을 미치는 요인과 여러 시장간의 상관관계 분석
   <br>
 </p>
@@ -16,16 +16,15 @@
 </p>
 
 <p align="center">
-GIF Images
 </p>
 
 <br>
 
 ## 기술 스택
-![python]<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-![Matplotlib]<img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-![Pandas]<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-![Jupyter Notebook]<img src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <br>
 
 ## 구현 기능
