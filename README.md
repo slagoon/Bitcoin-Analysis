@@ -22,12 +22,7 @@ GIF Images
 <br>
 
 ## 기술 스택
-
-| Python    |  beautifulsoup   |  pandas   |  matplot   |
-| :-------: | :--------------: | :-------:  | :------: |
-| ![![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/ab654402-d7a7-4259-91b7-9a7ba68d91dd)
-] | ![beautifulsoup] | ![pandas] | ![matplot]  |
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
 
 ## 구현 기능
