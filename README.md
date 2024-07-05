@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  [<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/282aed32-8132-4a8a-bc8f-4773f36ace04/d707edb4-819a-47d1-9130-d564c31deb9e/Untitled.png">](https://github.com/slagoon/Bitcoin-Analysis/issues/1#issuecomment-2210266099)
+  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/282aed32-8132-4a8a-bc8f-4773f36ace04/d707edb4-819a-47d1-9130-d564c31deb9e/Untitled.png">
   국내 암호화폐 시세에 영향을 미치는 요인과 여러 시장간의 상관관계 분석
   <br>
 </p>
