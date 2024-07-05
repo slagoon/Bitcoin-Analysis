@@ -1,4 +1,4 @@
-<img width = 400 align="center" src = "https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/674f7a1c-0012-4594-945d-380d02722380">
+<img width = 800 height = 400 align="center" src = "https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/674f7a1c-0012-4594-945d-380d02722380">
 
 # **프로젝트 이름**
 
