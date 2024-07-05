@@ -2,8 +2,8 @@
 
 <p align="center">
   <br>
-  <img src="![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/03e1a1e3-afaa-4f3d-a554-656f1e05533b)
-">
+  <img src="![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/03e1a1e3-afaa-4f3d-a554-656f1e05533b)">
+  국내 암호화폐 시세에 영향을 미치는 요인과 여러 시장간의 상관관계 분석
   <br>
 </p>
 
@@ -12,7 +12,7 @@
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+새로운 투자 상품으로 떠오르는 비트코인의 시세 변화를 확인하며 주식, 금, 유가와 같은 다른 투자 상품과의 비교를 통해 흐름을 분석
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@ GIF Images
 
 ## 기술 스택
 
-| Python | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![python]    |   ![ts]    | ![react] | ![node] |
+| Python    |  beautifulsoup   |  pandas   |  matplot   |
+| :-------: | :--------------: | :-------:  | :------: |
+| ![python] | ![beautifulsoup] | ![pandas] | ![matplot]  |
 
 <br>
 
