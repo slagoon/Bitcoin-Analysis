@@ -1,10 +1,10 @@
-# 프로젝트 이름
+## **프로젝트 이름**
 
 <p align="center">
   <br>
   <img width = 400 src = "https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/674f7a1c-0012-4594-945d-380d02722380">
   <div align=center>
-  ## 국내 암호화폐 시세에 영향을 미치는 요인과 여러 시장간의 상관관계 분석
+  # 국내 암호화폐 시세에 영향을 미치는 요인과 여러 시장간의 상관관계 분석
   <div>
   <br>
 </p>
