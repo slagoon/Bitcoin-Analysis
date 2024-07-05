@@ -25,7 +25,8 @@ GIF Images
 
 | Python    |  beautifulsoup   |  pandas   |  matplot   |
 | :-------: | :--------------: | :-------:  | :------: |
-| ![python] | ![beautifulsoup] | ![pandas] | ![matplot]  |
+| ![![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/ab654402-d7a7-4259-91b7-9a7ba68d91dd)
+] | ![beautifulsoup] | ![pandas] | ![matplot]  |
 
 <br>
 
