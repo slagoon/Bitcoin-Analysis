@@ -2,7 +2,8 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="![image](https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/03e1a1e3-afaa-4f3d-a554-656f1e05533b)
+">
   <br>
 </p>
 
