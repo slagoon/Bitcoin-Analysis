@@ -1,4 +1,4 @@
-<img width = 800 height = 400 align="center" src = "https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/674f7a1c-0012-4594-945d-380d02722380">
+<img width = 800 height = 400  src = "https://github.com/slagoon/Bitcoin-Analysis/assets/83450385/674f7a1c-0012-4594-945d-380d02722380">
 
 # **프로젝트 이름**
 
@@ -15,7 +15,11 @@
 ## 프로젝트 소개
 
 <p align="justify">
-새로운 투자 상품으로 떠오르는 비트코인의 시세 변화를 확인하며 주식, 금, 유가와 같은 다른 투자 상품과의 비교를 통해 흐름을 분석
+  
+### 1. 새로운 투자 상품으로 떠오르는 비트코인의 시세 변화를 확인하며 주식, 금, 유가와 같은 다른 투자 상품과의 비교를 통해 흐름을 분석
+
+### 2. 비트코인에 영향을 주는 요인 분석
+
 </p>
 
 <p align="center">
