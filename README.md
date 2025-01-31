@@ -1,4 +1,5 @@
-<img width = 800 height = 400  src = "![image](https://github.com/user-attachments/assets/43cd1fed-9d7e-41fe-9a4e-61a57621ce03)
+<img width = 800 height = 400  src = "![image](https://github.com/user-attachments/assets/0910470d-4931-4eac-a9c6-896ec9c2c711)
+
 ">
 
 # **프로젝트 이름**
